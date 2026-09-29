@@ -26,14 +26,14 @@ function Projects() {
     },
 
     {
-      title: "AI Chatbot",
+      title: "Atif Hayat Portfolio",
       category: "Web Application",
       description:
         "A ChatGPT-style web application with a modern interface and backend API integration.",
       technologies: ["React", "Tailwind CSS", "Node.js"],
-      image: "/images/ai-chatbot.png",
-      liveLink: "#",
-      githubLink: "#",
+      image: "/Images/AtifHayat-portfolio.png",
+      liveLink: "https://atifhayat.vercel.app/",
+      githubLink: "https://github.com/AtifHayat05/Atif-Hayat-Portfolio",
     },
   ];
 
