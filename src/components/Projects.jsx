@@ -29,8 +29,8 @@ function Projects() {
       title: "Atif Hayat Portfolio",
       category: "Web Application",
       description:
-        "A ChatGPT-style web application with a modern interface and backend API integration.",
-      technologies: ["React", "Tailwind CSS", "Node.js"],
+        "A modern responsive portfolio showcasing my skills, projects, resume and frontend development work.",
+      technologies: ["React", "Tailwind CSS", "Vite"],
       image: "/Images/AtifHayat-portfolio.png",
       liveLink: "https://atifhayat.vercel.app/",
       githubLink: "https://github.com/AtifHayat05/Atif-Hayat-Portfolio",
