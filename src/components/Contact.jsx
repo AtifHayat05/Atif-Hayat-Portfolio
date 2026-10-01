@@ -49,7 +49,7 @@ function Contact() {
                 href="mailto:your@email.com"
                 className="mt-2 block font-medium text-white transition hover:text-blue-400"
               >
-                your@email.com
+                atifhayatdev@email.com
               </a>
             </div>
 

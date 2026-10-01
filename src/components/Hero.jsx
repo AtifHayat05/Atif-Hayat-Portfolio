@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Download, Mouse } from "lucide-react";
-import profileImage from "../assets/Profile.JPG";
+import profileImage from "../assets/Profile.png";
 
 function Hero() {
   return (
